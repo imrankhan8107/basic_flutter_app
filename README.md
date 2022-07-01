@@ -1,4 +1,4 @@
-# i_am_poor
+#Basic Flutter App
 
 A new Flutter project.
 
